@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/kavish/static/css/main.f1fbb829.css",
-    "main.js": "/kavish/static/js/main.fa415d01.js",
+    "main.js": "/kavish/static/js/main.f364b417.js",
     "static/js/453.fe10fbc8.chunk.js": "/kavish/static/js/453.fe10fbc8.chunk.js",
     "static/media/V1.mp4": "/kavish/static/media/V1.00ec50cb640a37c6ddba.mp4",
     "static/media/V2.mp4": "/kavish/static/media/V2.9308d49deabd1d563541.mp4",
@@ -23,11 +23,11 @@
     "index.html": "/kavish/index.html",
     "static/media/star.svg": "/kavish/static/media/star.b9140158df85cb4e49104d556c5555ce.svg",
     "main.f1fbb829.css.map": "/kavish/static/css/main.f1fbb829.css.map",
-    "main.fa415d01.js.map": "/kavish/static/js/main.fa415d01.js.map",
+    "main.f364b417.js.map": "/kavish/static/js/main.f364b417.js.map",
     "453.fe10fbc8.chunk.js.map": "/kavish/static/js/453.fe10fbc8.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1fbb829.css",
-    "static/js/main.fa415d01.js"
+    "static/js/main.f364b417.js"
   ]
 }
